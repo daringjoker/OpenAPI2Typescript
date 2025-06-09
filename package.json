@@ -1,0 +1,15 @@
+{
+  "name": "convtype",
+  "version": "1.0.0",
+  "main": "openApi2ts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.5",
+    "prettier": "^3.3.3"
+  }
+}

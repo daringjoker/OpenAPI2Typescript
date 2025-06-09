@@ -1,0 +1,4 @@
+node_modules
+inputs/*
+output/*
+.env
