@@ -1,7 +1,7 @@
 const fs = require("fs");
 const axios = require("axios");
 const prettier = require("prettier");
-require("dotenv").configure();
+require("dotenv").config();
 
 let jsonContent;
 const ax = axios.create({
